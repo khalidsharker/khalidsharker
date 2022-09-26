@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khalidsharker
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
