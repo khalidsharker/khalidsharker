@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Contact: khalid.sharker.bd@gmail.com
 
 <!---
 khalidsharker/khalidsharker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
